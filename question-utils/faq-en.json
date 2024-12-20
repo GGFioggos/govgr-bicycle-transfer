@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "question": "For mopeds of what engine capacity does the questionnaire refer to?",
+        "answer": "The questionnaire refers to mopeds up to 50 cubic centimeters (50cc)."
+    },
+    {
+        "id": 1,
+        "question": "In which cases is the moped transfer license required?",
+        "answer": "The moped transfer license is required during its purchase or sale."
+    },
+    {
+        "id": 2,
+        "question": "What happens if the moped owner is a minor?",
+        "answer": "In cases where the applicant and owner of the moped is a minor, the application for the moped transfer license must be submitted by their legal representative."
+    }
+]

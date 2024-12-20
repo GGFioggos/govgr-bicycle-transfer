@@ -1,0 +1,57 @@
+{
+    "PublicService": {
+        "name": "Moped Transfer",
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Private moped sale agreement",
+                        "description": "Agreement with validated signatures of both the seller and the buyer."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Moped registration document",
+                        "description": "The registration document of the previous owner."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "Identification documents",
+                        "description": "Copies of ID cards or passports for both the buyer and the seller."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "Fees",
+                        "description": "Fees of €15 and €2.04."
+                    }
+                ]
+            }
+        ],
+        "criterion_requirments": [
+            {
+                "id": "cr0001",
+                "name": "Technical requirements for the moped"
+            }
+        ]
+    }
+}

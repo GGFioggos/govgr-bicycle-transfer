@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "question": "Do you have a private agreement for the transfer of the moped?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 1,
+        "question": "Do you have the registration document for the moped?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 2,
+        "question": "Do you have identification documents for both the buyer and the seller?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 3,
+        "question": "Have you paid the required fees (€15 and €2.04)?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 4,
+        "question": "Does the moped meet the technical requirements for transfer?",
+        "options": ["Yes", "No"]
+    }
+]
